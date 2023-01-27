@@ -1,0 +1,22 @@
+Noah Pilkington
+Individual Assignment 1
+Jan 27, 2023
+
+Q: What are and how many properties/fields/attributes does the Java class have?
+
+    A: 9 properties (name, year of establishment, number of students, number of faculty members,
+    number of faculties, number of departments of each faculty, three facilities)
+
+Q: Which part of this assignment was more challenging for you?
+
+    A: Access modifiers-> I had to refresh my mind on when to use Public or Private for setters/getters.
+
+Q: Could you handle the challenge or not?
+
+    A: Yes I could. I felt confident for the majority of the questions.
+    I typically get stuck on small things or remembering how to do a certain task.
+    When this happens I usually stop, think and try to solve. If that fails, I google for tips.
+
+Q: How do you rate your developed Java application from 0 to 10?
+
+    A: 9/10 Completed all the questions, has good readability, simple but logical property names and works with no errors.
